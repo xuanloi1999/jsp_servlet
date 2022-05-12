@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyDangKy.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyDangXuat.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/chitietsanpham.jsp</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyTacVuTrongGioHang.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Entity/DanhMuc.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Dao/DBConnect.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/suasanpham.jsp</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/quanlysanpham.jsp</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Dao/DanhMucDao.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/suadanhmuc.jsp</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/index.html</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyThemDanhMuc.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyXoaDanhMuc.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Entity/SanPham.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyMuaHang.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyTimKiem.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/quanlydanhmuc.jsp</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/themsanpham.jsp</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/danhsachsanphamtheodanhmuc.jsp</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/css/login.css</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyThemSanPham.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyTangTrongGioHang.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyDangNhap.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Entity/QuanLySanPhamEntity.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/home.jsp</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/login.jsp</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Entity/TaiKhoan.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Dao/TaiKhoanDao.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyXoa.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/themdanhmuc.jsp</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyGiamTrongGioHang.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLySuaDanhMucHoanThanh.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyCart.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLyGioHang.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/signUp.jsp</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Entity/DanhSachDuLieu.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/QuanLyDanhMuc.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/LayDuLieu.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLySuaDanhMuc.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/ChiTietSanPham.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Dao/SanPhamDao.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/css/style.css</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLySua.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/cart.jsp</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/QuanLySanPham.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/SanPhamTheoDanhMuc.java</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/web/css/cart.css</file>
+            <file>file:/D:/HK3/Java2/KiemTra/DoAn/src/java/Servlet/XuLySuaSanPham.java</file>
+        </group>
+    </open-files>
+</project-private>
